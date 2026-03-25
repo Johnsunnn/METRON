@@ -10,11 +10,5 @@ Figure 1: Proposed Architecture of METRON Framework for Biological Age Estimatio
 ## 🚀 Abstract
 Biological age provides a more direct reflection of physiological status than chronological age, serving as a vital measure to evaluate health risks and aging interventions. While steroid metabolomics offers rich information for exploring aging mechanisms, the complex and non-linear interactions within metabolic networks remain challenging in modeling. Here, we propose and describe METRON as a deep learning framework to predict biological ages from steroid metabolomics. Specifically, a Metabolite Interaction Perception Module (MIPM) is proposed to capture the interactions. Subsequently, a Group-Rational Kolmogorov-Arnold Network is also integrated to capture intricate dependencies and enhance the representation capability. We demonstrate that METRON achieves promising performance as compared to other machine learning and deep learning methods. Beyond performance, METRON offers interpretability by recovering the established markers such as Dehydroepiandrosterone (DHEA) and identifying 17-hydroxyprogesterone (17-OH-P4) as the key signature linked to hypothalamic-pituitary-adrenal axis dynamics. These results support the capacity of METRON not only to estimate biological age but also to uncover underappreciated metabolic drivers behind aging.
 
-## 📢 News
-* **[2026-01-18]**: The codes are released.
-
-## 📂 Data Preparation
-Dataset can be downloaded from "Biological age prediction using a DNN model based on pathways of steroidogenesis" (https://www.science.org/doi/10.1126/sciadv.adt2624)
-
 ## 📄 License
 This project is released under the MIT License.
